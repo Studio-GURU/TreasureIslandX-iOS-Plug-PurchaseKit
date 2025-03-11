@@ -1,0 +1,401 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TreasureIslandXPlugPurchaseKit",
+    "printedName": "TreasureIslandXPlugPurchaseKit",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PlugPurchaseBuilder",
+        "printedName": "PlugPurchaseBuilder",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "builder",
+            "printedName": "builder()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PurchaseContractBuilder",
+                "printedName": "any TreasureIslandXFoundationKit.PurchaseContractBuilder",
+                "usr": "s:28TreasureIslandXFoundationKit23PurchaseContractBuilderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:30TreasureIslandXPlugPurchaseKit04PlugD7BuilderC7builder0ab11XFoundationE00d8ContractG0_pyFZ",
+            "mangledName": "$s30TreasureIslandXPlugPurchaseKit04PlugD7BuilderC7builder0ab11XFoundationE00d8ContractG0_pyFZ",
+            "moduleName": "TreasureIslandXPlugPurchaseKit",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:30TreasureIslandXPlugPurchaseKit04PlugD7BuilderC",
+        "mangledName": "$s30TreasureIslandXPlugPurchaseKit04PlugD7BuilderC",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "StoreKit",
+        "printedName": "StoreKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "StoreKit",
+        "printedName": "StoreKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "StoreKit",
+        "printedName": "StoreKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "StoreKit",
+        "printedName": "StoreKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TreasureIslandXFoundationKit",
+        "printedName": "TreasureIslandXFoundationKit",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXPlugPurchaseKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PurchaseWebKit",
+        "printedName": "PurchaseWebKit",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "postPurchase",
+            "printedName": "postPurchase(appToken:productId:completionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TreasureIslandXFoundationKit.PurchaseResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PurchaseResult",
+                    "printedName": "TreasureIslandXFoundationKit.PurchaseResult",
+                    "usr": "s:28TreasureIslandXFoundationKit14PurchaseResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:30TreasureIslandXPlugPurchaseKit0d3WebE0C04postD08appToken9productId17completionHandlerySS_SSy0ab11XFoundationE00D6ResultOctFZ",
+            "mangledName": "$s30TreasureIslandXPlugPurchaseKit0d3WebE0C04postD08appToken9productId17completionHandlerySS_SSy0ab11XFoundationE00D6ResultOctFZ",
+            "moduleName": "TreasureIslandXPlugPurchaseKit",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "postPurcahseRevision",
+            "printedName": "postPurcahseRevision(completionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Int) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:30TreasureIslandXPlugPurchaseKit0d3WebE0C20postPurcahseRevision17completionHandleryySic_tFZ",
+            "mangledName": "$s30TreasureIslandXPlugPurchaseKit0d3WebE0C20postPurcahseRevision17completionHandleryySic_tFZ",
+            "moduleName": "TreasureIslandXPlugPurchaseKit",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:30TreasureIslandXPlugPurchaseKit0d3WebE0C",
+        "mangledName": "$s30TreasureIslandXPlugPurchaseKit0d3WebE0C",
+        "moduleName": "TreasureIslandXPlugPurchaseKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIslandX.iOS\/TreasureIslandX.iOS.Source\/Platforms\/TreasureIslandXPlugPurchaseKit\/TreasureIslandXPlugPurchaseKit\/Library\/PurchaseRevisionHandlerLegacy.swift",
+      "kind": "IntegerLiteral",
+      "offset": 308,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIslandX.iOS\/TreasureIslandX.iOS.Source\/Platforms\/TreasureIslandXPlugPurchaseKit\/TreasureIslandXPlugPurchaseKit\/Library\/PurchaseHandlerLegacy.swift",
+      "kind": "StringLiteral",
+      "offset": 547,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIslandX.iOS\/TreasureIslandX.iOS.Source\/Platforms\/TreasureIslandXPlugPurchaseKit\/TreasureIslandXPlugPurchaseKit\/Library\/PurchaseHandlerLegacy.swift",
+      "kind": "StringLiteral",
+      "offset": 586,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIslandX.iOS\/TreasureIslandX.iOS.Source\/Platforms\/TreasureIslandXPlugPurchaseKit\/TreasureIslandXPlugPurchaseKit\/Library\/PurchaseRevisionHandler.swift",
+      "kind": "IntegerLiteral",
+      "offset": 321,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIslandX.iOS\/TreasureIslandX.iOS.Source\/Platforms\/TreasureIslandXPlugPurchaseKit\/TreasureIslandXPlugPurchaseKit\/Library\/PropertyHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 17,
+      "value": "\"PropertyHandler\""
+    }
+  ]
+}

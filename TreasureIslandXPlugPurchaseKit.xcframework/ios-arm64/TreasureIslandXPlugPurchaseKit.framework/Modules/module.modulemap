@@ -1,0 +1,6 @@
+framework module TreasureIslandXPlugPurchaseKit {
+  umbrella header "TreasureIslandXPlugPurchaseKit.h"
+  export *
+
+  module * { export * }
+}
